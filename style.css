@@ -165,6 +165,7 @@ a{
     margin-left: 1.5rem;
     transition: all 0.5s;
     margin-top: 1rem;
+    height: 250px;
 }
 .card:hover{
     background-color: #292727;

@@ -147,5 +147,10 @@
     .player{
       width: 100%;
     }
+    .all_btn{
+      background-color: transparent;
+      border: none;
+      color: white;
+    }
   }
   
